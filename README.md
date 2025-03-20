@@ -1,4 +1,4 @@
-## Hi there, I'm [Your Name]! 👋
+## Hi there, I'm Bekalu Eshetie! 👋
 
 I'm a **Full-Stack Mobile App Developer** passionate about building high-quality applications with great user experiences. I specialize in **Flutter** for cross-platform mobile development and have experience with **Firebase** and **Django (Python)** for the backend.
 
@@ -25,8 +25,8 @@ I'm a **Full-Stack Mobile App Developer** passionate about building high-quality
 
 ### 📫 Connect With Me:
 - GitHub: [github.com/BekaluEshete](https://github.com/BekaluEshete)
-- LinkedIn: [Your LinkedIn](#)
-- Twitter: [Your Twitter](#)
+- LinkedIn: www.linkedin.com/in/bekalu-eshete
+- Twitter:https://x.com/bekaeshete
 
 💡 I love collaborating on exciting projects and always strive to improve my skills. Feel free to connect and let's build something amazing together! 🚀
 
