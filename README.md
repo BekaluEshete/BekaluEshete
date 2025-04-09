@@ -1,10 +1,10 @@
 ## Hi there, I'm Bekalu Eshetie! 👋
 
-I'm a **Full-Stack Mobile App Developer** passionate about building high-quality applications with great user experiences. I specialize in **Flutter** for cross-platform mobile development and have experience with **Firebase** and **Django (Python)** for the backend.
+I'm a **Full-Stack Web and Mobile App Developer** passionate about building high-quality applications with great user experiences. I specialize in **Flutter** for cross-platform mobile development and have experience with **Firebase** and **Django (Python)** for the backend.
 
 ### 🚀 What I Do:
 - **Mobile Development:** Flutter (Dart) for cross-platform apps.
-- **Backend Development:** Firebase, Django, and RESTful APIs.
+- **Backend Development:** Firebase, Django, and RESTful APIs,Websocket API.
 - **Database Management:** Firestore, PostgreSQL, and SQLite.
 - **State Management:** Riverpod, Provider, and Bloc.
 - **UI/UX Design:** Creating intuitive and beautiful interfaces.
@@ -12,7 +12,7 @@ I'm a **Full-Stack Mobile App Developer** passionate about building high-quality
 
 ### 🔧 Technologies & Tools:
 - **Languages:** Dart, Python, JavaScript
-- **Frontend:** Flutter, React.js (basic)
+- **Frontend:** Flutter, React.js ,Next.js,tailwind css
 - **Backend:** Django, Firebase, Node.js (basic)
 - **Database:** Firestore, PostgreSQL, SQLite
 - **State Management:** Riverpod, Provider, Bloc
