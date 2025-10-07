@@ -4,7 +4,7 @@ I'm a **Full-Stack Web and Mobile App Developer** passionate about building high
 
 ### 🚀 What I Do:
 - **Mobile Development:** Flutter (Dart) for cross-platform apps.
-- **Backend Development:**Nodejs(express), Firebase, Django,  and RESTful APIs,Websocket API.
+- **Backend Development:** Nodejs(express), Firebase, Django,  and RESTful APIs,Websocket API.
 - **Database Management:** Mongodb, Firestore, PostgreSQL, and SQLite.
 - **State Management:** Redux,contextApi,Riverpod, Provider, and Bloc.
 - **UI/UX Design:** Creating intuitive and beautiful interfaces.
