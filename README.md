@@ -2,7 +2,7 @@
 
 I'm a **Full-Stack & Flutter Software Engineer** with 3+ years of experience designing, building, and deploying scalable web and mobile applications across government, startup, and freelance environments. I've shipped production Flutter apps to the Google Play Store and full-stack platforms built on **Django**, **Node.js/Express**, **React/Next.js**, and **PostgreSQL** — with a strong foundation in real-time systems, REST/WebSocket API design, and clean, user-focused UI/UX.
 
-Currently leading software automation initiatives at the **Amhara Police Commission**, while maintaining an active open-source presence with **56+ public repositories**.
+Currently leading software automation initiatives at the **Amhara Police Commission**, while maintaining an active open-source presence with ** maney public repositories**.
 
 ### 🚀 What I Do:
 - **Mobile Development:** Flutter (Dart) for cross-platform apps — state management with Riverpod, Bloc, Provider, and Redux.
