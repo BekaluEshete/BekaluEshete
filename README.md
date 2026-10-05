@@ -1,11 +1,11 @@
 ## Hi there, I'm Bekalu Eshetie! 👋
 
-I'm a **Full-Stack & Flutter Software Engineer** with 3+ years of experience designing, building, and deploying scalable web and mobile applications across government, startup, and freelance environments. I've shipped production Flutter apps to the Google Play Store and full-stack platforms built on **Django**, **Node.js/Express**, **React/Next.js**, and **PostgreSQL** — with a strong foundation in real-time systems, REST/WebSocket API design, and clean, user-focused UI/UX.
+I'm a **Full-Stack & Flutter Software Engineer** with 4+ years of experience designing, building, and deploying scalable web and mobile applications across government, startup, and freelance environments. I've shipped production Flutter apps to the Google Play Store and full-stack platforms built on **Django**, **Node.js/Express**, **React/Next.js**, and **PostgreSQL**  with a strong foundation in real-time systems, REST/WebSocket API design, and clean, user-focused UI/UX.
 
 Currently leading software automation initiatives at the **Amhara Police Commission**, while maintaining an active open-source presence with  public repositories.
 
 ### 🚀 What I Do:
-- **Mobile Development:** Flutter (Dart) for cross-platform apps — state management with Riverpod, Bloc, Provider, and Redux.
+- **Mobile Development:** Flutter (Dart) for cross-platform apps  state management with Riverpod, Bloc, Provider, and Redux.
 - **Frontend Development:** React.js, Next.js, TypeScript, Tailwind CSS, responsive and accessible UI/UX design.
 - **Backend Development:** Django, Node.js (Express), REST APIs, WebSocket APIs, Celery.
 - **Database Management:** PostgreSQL, MongoDB, Firestore, MySQL, SQLite.
@@ -22,10 +22,9 @@ Currently leading software automation initiatives at the **Amhara Police Commiss
 - **Tools:** Git, GitHub, VS Code, Android Studio, Postman, Firebase Console
 
 ### 🏆 Highlights:
-- 🥈 Awarded **2nd Best Final-Year Project** at Bahir Dar University for **RTCS (Road Traffic Control System)** — a Flutter + Django REST + Next.js platform enforcing 40+ business rules for the Amhara Regional Road Traffic Organization.
-- 🌍 Selected participant, **Safaricom Talent Cloud** competition — built **Adde**, a maternal health app connecting rural mothers with doctors.
+- 🥈 Awarded **2nd Best Final-Year Project** at Bahir Dar University for **RTCS (Road Traffic Control System)** a Flutter + Django REST + Next.js platform enforcing 40+ business rules for the Amhara Regional Road Traffic Organization.
+- 🌍 Selected participant, **Safaricom Talent Cloud** competition built **Adde**, a maternal health app connecting rural mothers with doctors.
 - ✅ Rated software tester on **uTest.com**, contributing to real-world QA and bug-reporting workflows.
-- 🧩 Active algorithmic problem solver on [LeetCode](https://leetcode.com/u/bekalu_esh).
 
 ### 🌱 Currently Exploring:
 - Offline-first web architecture (Service Workers, IndexedDB, Dexie.js)
